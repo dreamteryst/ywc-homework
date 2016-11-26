@@ -92,7 +92,7 @@ Profile
 		</tr>
 		<tr>
 			<td align="right">
-				<strong>Look At:</strong>
+				<strong>Look At : </strong>
 			</td>
 			<td>
 				https://github.com/dreamteryst
