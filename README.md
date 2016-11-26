@@ -87,7 +87,7 @@ Profile
 				<strong>Other : </strong>
 			</td>
 			<td>
-				Socket.io[nodejs, java], Websocket[nodejs, java], RESFul API, Google Firebase, Android Native + Hybrid Application[if hybird can export to IOS and Android]
+				Socket.io[nodejs, java], Websocket[nodejs, java], RESFul API, Google Firebase, Android Native + Hybrid Application[IF hybird can export to IOS and Android]
 			</td>
 		</tr>
 		<tr>
