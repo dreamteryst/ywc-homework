@@ -6,7 +6,7 @@ Profile
 <strong>PHP Framework :</strong> Codeigniter, Lavavel<br/>
 <strong>JavaScript Plugin :</strong> nodeJS, Jquery, React, AngularJS<br/>
 <strong>Font-end :</strong> Bootstrap<br/>
-<strong>Design : </strong> Photoshop, CSS<br/>
+<strong>Design : </strong>UI, UX, Photoshop, CSS<br/>
 <strong>Security-Protect : </strong> XSS, Sql injection, brute force<br/>
 <strong>Other : </strong> Socket.io[nodejs, java], Websocket[nodejs, java], RESFul API, Google Firebase<br/>
 <strong>Look At:</strong> https://dreamteryst.github.io/ywc-homework/
