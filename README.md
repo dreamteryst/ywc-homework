@@ -68,7 +68,7 @@ Profile
 		</tr>
 		<tr>
 			<td align="right">
-				<strong>Security-Protect : </strong>
+				<strong>Security : </strong>
 			</td>
 			<td>
 				XSS, Sql injection, brute force
