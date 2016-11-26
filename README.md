@@ -76,6 +76,14 @@ Profile
 		</tr>
 		<tr>
 			<td align="right">
+				<strong>English : </strong>
+			</td>
+			<td>
+				Fair English Skill
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
 				<strong>Other : </strong>
 			</td>
 			<td>
