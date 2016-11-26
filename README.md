@@ -5,6 +5,7 @@ YWC 14th Homework Web Programimg
 <strong>language :</strong> PHP, JAVA, JavaScript[nodeJS, Jquery], HTML, CSS, C, C++<br/>
 <strong>PHP Framework :</strong> Codeigniter, Lavavel<br/>
 <strong>Font-end :</strong> Bootstrap<br/>
+<strong>Design : </strong> Photoshop, CSS
 
 My Portfolio
 ============
