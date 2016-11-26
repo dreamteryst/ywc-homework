@@ -1,4 +1,4 @@
-YWC 14th Homeworl Web Programimg
+YWC 14th Homework Web Programimg
 ================================
 <strong>Name :</strong> Kittisak Pimnonthong<br/>
 <strong>Study :</strong> Khonkaen University<br/>
