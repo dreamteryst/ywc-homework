@@ -1,4 +1,4 @@
-YWC 14th Homework Web Programimg
+Profile
 ================================
 <strong>Name :</strong> Kittisak Pimnonthong<br/>
 <strong>Study :</strong> Khonkaen University<br/>
@@ -8,7 +8,7 @@ YWC 14th Homework Web Programimg
 <strong>Design : </strong> Photoshop, CSS<br/>
 <strong>Look At:</strong> https://dreamteryst.github.io/ywc-homework/
 
-My Portfolio
+Portfolio
 ============
 url : http://www.watsingschool.ac.th/scs/<br/>
 ![alt tag](https://upic.me/i/j1/2016-11-21_174354.png)<br/><br/>
