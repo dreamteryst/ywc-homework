@@ -1,16 +1,97 @@
 Profile
 =======
-<strong>Name :</strong> Kittisak Pimnonthong<br/>
-<strong>Study :</strong> Khonkaen University, Computer Science, Lv.Sophomore<br/>
-<strong>language :</strong> PHP, JAVA, JavaScript, HTML, CSS, SASS, C, C++<br/>
-<strong>PHP Framework :</strong> Codeigniter, Lavavel<br/>
-<strong>JavaScript Plugin :</strong> nodeJS, Jquery, React, AngularJS<br/>
-<strong>Font-end :</strong> Bootstrap<br/>
-<strong>Design : </strong>UI, UX, Photoshop, CSS<br/>
-<strong>Database skill : </strong>Very good SQL, Fair NoSQL<br/>
-<strong>Security-Protect : </strong> XSS, Sql injection, brute force<br/>
-<strong>Other : </strong> Socket.io[nodejs, java], Websocket[nodejs, java], RESFul API, Google Firebase, Android Native + Hybrid Application[if hybird can export to IOS and Android]<br/>
-<strong>Look At:</strong> https://dreamteryst.github.io/ywc-homework/
+<table>
+	<tbody>
+		<tr>
+			<td width="20%" align="right">
+				<strong>Name :</strong>
+			</td>
+			<td>
+				 Kittisak Pimnonthong
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>Study :</strong>
+			</td>
+			<td>
+				Khonkaen University, Computer Science, Lv.Sophomore
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>language :</strong>
+			</td>
+			<td>
+				PHP, JAVA, JavaScript, HTML, CSS, SASS, C, C++
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>PHP Framework :</strong>
+			</td>
+			<td>
+				Codeigniter, Lavavel
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>JavaScript Plugin :</strong>
+			</td>
+			<td>
+				nodeJS, Jquery, React, AngularJS
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>Font-end :</strong>
+			</td>
+			<td>
+				Bootstrap, React, AngularJS<br/>
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>Design : </strong>
+			</td>
+			<td>
+				UI/UX, Photoshop, CSS
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>Database skill : </strong>
+			</td>
+			<td>
+				Very good SQL, Fair NoSQL
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>Security-Protect : </strong>
+			</td>
+			<td>
+				XSS, Sql injection, brute force
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>Other : </strong>
+			</td>
+			<td>
+				Socket.io[nodejs, java], Websocket[nodejs, java], RESFul API, Google Firebase, Android Native + Hybrid Application[if hybird can export to IOS and Android]
+			</td>
+		</tr>
+		<tr>
+			<td align="right">
+				<strong>Look At:</strong>
+			</td>
+			<td>
+				https://dreamteryst.github.io/ywc-homework/
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 Portfolio
 =========
