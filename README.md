@@ -95,7 +95,7 @@ Profile
 				<strong>Look At:</strong>
 			</td>
 			<td>
-				https://dreamteryst.github.io/ywc-homework/
+				https://github.com/dreamteryst
 			</td>
 		</tr>
 	</tbody>
